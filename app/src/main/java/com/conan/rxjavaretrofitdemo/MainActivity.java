@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         getFaqOnNext = new SubscriberOnNextListener<List<DataBean>>() {
             @Override
             public void onNext(List<DataBean> dataBeen) {
+
                 resultTV.setText(dataBeen.toString());
             }
         };
