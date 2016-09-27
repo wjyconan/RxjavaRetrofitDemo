@@ -1,0 +1,4 @@
+CHANGED,/Users/conan/myCode/RxjavaRetrofitDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/conan/rxjavaretrofitdemo/HttpMethods$HttpResultFunc$override.class
+CHANGED,/Users/conan/myCode/RxjavaRetrofitDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/conan/rxjavaretrofitdemo/HttpMethods$override.class
+CHANGED,/Users/conan/myCode/RxjavaRetrofitDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/conan/rxjavaretrofitdemo/HttpMethods$SingletonHolder$override.class
+CHANGED,/Users/conan/myCode/RxjavaRetrofitDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
